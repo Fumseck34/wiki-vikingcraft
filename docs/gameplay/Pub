@@ -1,0 +1,25 @@
+---
+sidebar_position: 11
+---
+
+# 📄 Pub
+
+## Les Pubs
+
+Grâce à la commande /pub, vous pouvez prédéfinir un message que vous pourrez afficher en jeu.
+
+---
+
+## Comment ça marche?
+
+Voici la liste des commandes
+
+- **/pub help** : Affiche le panneau d'aide.
+- **/pub set <message>** : Enregistre votre message de pub.
+- **/pub type <Warp/Info/Vente>** : Change le type de votre pub.
+- **/pub test** : Affiche votre pub uniquement pour vous.
+- **/pub push** : Envoie votre pub publiquement.
+
+:::danger Attention
+
+Afin d'éviter les floods, un cooldown de 30 minutes entre chaque envoi est actif
