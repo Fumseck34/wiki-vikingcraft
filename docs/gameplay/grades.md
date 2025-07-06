@@ -12,20 +12,20 @@ Nous sommes entièrement financés et soutenus par des joueurs comme vous. Chaqu
 
 Découvrez les différents grades disponibles sur le serveur et les avantages qu'ils apportent :
 
-1. **🟢 Citoyen (grade de base)**  
+1. **🟢 Naufragé (grade de base)**  
    *Le grade de départ pour tous les joueurs.*
 
-2. **🐢 Tortue**  
+2. **🔭 Explorateur**  
    *Un grade qui vous donne de nouveaux privilèges.*
 
-3. **🦊 Renard**  
-   *Un grade offrant davantage de possibilités, à l'image d'un renard astucieux.*
+3. **🗡 Guerrier**  
+   *Un grade offrant davantage de possibilités, à l'image d'un Guerrier majestueux.*
 
-4. **🐼 Panda**  
-   *Accédez à des avantages plus puissants avec le grade Panda.*
+4. **⚔ Viking**  
+   *Accédez à des avantages plus puissants avec le grade Viking.*
 
-5. **🐼✨ Panda+**  
-   *La version améliorée du Panda, avec encore plus de bonus.*
+5. **⚔✨ Viking+**  
+   *La version améliorée du Viking, avec encore plus de bonus.*
 
 :::tip
 💡 **Vous pouvez retrouver tous ces grades dans notre boutique** en tapant la commande `/boutique` dans le jeu pour consulter les prix et détails des avantages. Chaque contribution soutient directement le serveur et ses améliorations ! 🚀
